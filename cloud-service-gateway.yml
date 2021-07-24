@@ -1,3 +1,3 @@
 register:
-  maxTimes: 10
-  timeGap: 5
+  maxTimes: 20
+  timeGap: 2
