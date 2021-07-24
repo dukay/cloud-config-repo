@@ -1,0 +1,6 @@
+mail:
+  smtp:
+    host: smtp.163.com
+    from: bukay123@163.com
+    user: bukay123
+    password: 13636900897guo
