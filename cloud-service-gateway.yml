@@ -1,0 +1,3 @@
+register:
+  maxTimes: 10
+  timeGap: 5
